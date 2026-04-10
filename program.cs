@@ -8,7 +8,7 @@ namespace ProyectoEquipo
         {
             Console.WriteLine("=== Sistema de Equipo ===\n");
 
-            // Alumno 1 agrega su método aquí
+            // Alumno 1 agrega su método aquí armando!!!!!
             Saludar("Profesor");
 
             // Alumno 2 agrega su método aquí
